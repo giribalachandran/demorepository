@@ -1,2 +1,2 @@
 
-My demo repositor
+My demo repository
